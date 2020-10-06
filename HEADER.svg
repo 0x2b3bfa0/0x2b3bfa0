@@ -61,10 +61,10 @@ svg {
 	</symbol>
 
 	<g class = "g-ants">
-		<use xlink:href="#s-text" class="text-copy"></use>
-		<use xlink:href="#s-text" class="text-copy"></use>
-		<use xlink:href="#s-text" class="text-copy"></use>
-		<use xlink:href="#s-text" class="text-copy"></use>
-		<use xlink:href="#s-text" class="text-copy"></use>
+		<use href="#s-text" class="text-copy"></use>
+		<use href="#s-text" class="text-copy"></use>
+		<use href="#s-text" class="text-copy"></use>
+		<use href="#s-text" class="text-copy"></use>
+		<use href="#s-text" class="text-copy"></use>
 	</g>
 </svg>
