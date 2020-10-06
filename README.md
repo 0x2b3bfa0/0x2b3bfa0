@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=ff9900">
 <img src="https://img.shields.io/badge/Cloud-G_Suite-informational?style=flat&logo=google&logoColor=white&color=ff9900">
 <img src="https://img.shields.io/badge/Cloud-GitHub_Actions-informational?style=flat&logo=github-actions&logoColor=white&color=ff9900">
+<img src="https://img.shields.io/badge/Cloud-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=ff9900">
 <img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=333333">
 <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=33aa33">
 <img src="https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=33aa33">
