@@ -1,5 +1,6 @@
 <img src="./HEADER.svg"></img>
 
+<br>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=0x2b3bfa0&count_private=true&show_icons=true"></p>
 
 
@@ -17,6 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<br><br>
 
 
 <p align="center">
@@ -46,10 +49,14 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Kernel-Linux-informational?style=flat&logo=linux&logoColor=white&color=333333">
 <img src="https://img.shields.io/badge/Hardware-Arduino-informational?style=flat&logo=arduino&logoColor=white&color=00979d">
 <img src="https://img.shields.io/badge/Hardware-ESP32-informational?style=flat&logo=arduino&logoColor=white&color=cc4444">
-<br><br>
-<a href="https://gitlab.com/0x2b3bfa0"><img width="30px" src="https://simpleicons.org/icons/gitlab.svg" alt="GitLab"><a>
-<a href="https://github.com/0x2b3bfa0"><img width="30px" src="https://simpleicons.org/icons/github.svg" alt="GitHub"><a>
-<a href="https://keybase.io/0x2b3bfa0"><img width="30px" src="https://simpleicons.org/icons/keybase.svg" alt="Keybase"><a>
+</p>
+
+<hr>
+
+<p align="center">
+<a href="https://gitlab.com/0x2b3bfa0"><img width="30px" src="https://simpleicons.org/icons/gitlab.svg" alt="GitLab"><a><span>&nbsp;</span><span>&nbsp;</span>
+<a href="https://github.com/0x2b3bfa0"><img width="30px" src="https://simpleicons.org/icons/github.svg" alt="GitHub"><a><span>&nbsp;</span><span>&nbsp;</span>
+<a href="https://keybase.io/0x2b3bfa0"><img width="30px" src="https://simpleicons.org/icons/keybase.svg" alt="Keybase"><a><span>&nbsp;</span><span>&nbsp;</span>
 </p>
                                                                                                                          
 
