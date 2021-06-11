@@ -19,7 +19,7 @@ svg {
 }
 
 .text-copy {
-    fill: none;
+    fill: none; 
     stroke: white;
     stroke-dasharray: 6% 29%;
     stroke-width: 5px;
